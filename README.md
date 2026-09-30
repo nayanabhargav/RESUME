@@ -8,11 +8,13 @@ analytical, problem-solving, and teamwork skills with a passion for building sca
 
 ## Technical Skills
 
-* **Programming:** Python, Java, SQL, HTML, CSS, JavaScript
-* **AI/ML:** Machine Learning, Deep Learning, CNN, Random Forest, TensorFlow, Keras, PyTorch, OpenCV
-* **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-* **Tools:** Git, GitHub, Docker, Jupyter Notebook, Google Colab, VS Code
-* **Databases:** MySQL, Firebase
+* **Programming:** Python, Java, SQL, C, HTML, CSS, JavaScript 
+* **Core CS Concepts:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, SDLC 
+* **AI/ML:** Machine Learning, Deep Learning, Computer Vision, NLP, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV 
+* **Data Analysis:** Pandas, NumPy, EDA, Data Preprocessing, Feature Engineering, Data Visualization, Statistics, Excel 
+* **Cloud & Tools:** AWS, Azure, Docker, Git, GitHub, Jupyter, VS Code, Power BI, Tableau 
+* **Databases:** MySQL, Firebase, REST APIs, JSON
+
 
 ## Projects
 
@@ -26,9 +28,11 @@ analytical, problem-solving, and teamwork skills with a passion for building sca
 * AI/ML Intern — Scontinent Technologies Pvt. Ltd.
 * Data Analytics Intern — SpatialHawk Geoinformatics Pvt. Ltd.
 
-## Currently Learning
+## Certifications
 
-* LLM Engineering and Large Language Models — Udemy
+* **IBM:** Python for Data Science
+* **Udemy:** The Web Developer Bootcamp
+* **Udemy:** AI Engineer- LLM Engineering, RAG, QLoRA, Agents
 
 ## Connect With Me
 
