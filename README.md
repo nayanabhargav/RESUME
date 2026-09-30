@@ -38,4 +38,4 @@ analytical, problem-solving, and teamwork skills with a passion for building sca
 
 * **LinkedIn:** https://www.linkedin.com/in/nayana-b-018b88334/
 * **Email:** [nayanab949@gmail.com](mailto:nayanab949@gmail.com)
-* **phone:** +91 9110689920
+* **phone:** [+91 9110689920](9110689920)
